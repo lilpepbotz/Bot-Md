@@ -36,7 +36,7 @@ module.exports = {
         global.colong1 = 'Ciss 📸'
         global.colong2 = 'REALSIBOTZ'
         global.kontak2 = [
-        ['6282239202895', 'Alwi', 'Dev realsi', 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ', true],
+        ['6282239202895', 'Alwi', 'Dev realsi', 'https://chat.whatsapp.com/BXsMdYgXW5s7ihVhsamVJZ', true],
         ['6282239202895', await this.getName('6282239202895@s.whatsapp.net'), 'REALSI V2', 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ', true], 
         ]
         global.bg = await (await fetch(img)).buffer()
