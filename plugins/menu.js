@@ -27,8 +27,8 @@ const defaultMenu = {
 ┆⬡ *Bailyes Version* : 4.2.0
 ┆⬡ *Database* : %rtotalreg dari %totalreg
 ┆⬡ *Memory Used* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-┆⬡ *Group bot* :
-┆⬡ https://chat.whatsapp.com/BXsMdYgXW5s7ihVhsamVJZ
+┆⬡ * kosong* :
+┆⬡ kosong
 ┗─────────────────⬣
 %readmore`.trim(),
   header: '┏━┈┈『 %category 』┈┈⬣',
