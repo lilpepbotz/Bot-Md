@@ -36,8 +36,8 @@ global.wait = '_*𝒔𝒆𝒅𝒂𝒏𝒈 𝒅𝒊 𝒑𝒓𝒐𝒔𝒆𝒔...*_
 global.eror = '_*𝒎𝒂𝒂𝒇 𝒔𝒆𝒓𝒗𝒆𝒓 𝒆𝒓𝒓𝒐𝒓...*_'
 
 //========Url Template Buttons=========//
-global.dtu = 'Grouo'
-global.urlnya = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"
+global.dtu = 'Group'
+global.urlnya = "https://chat.whatsapp.com/BXsMdYgXW5s7ihVhsamVJZ"
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
